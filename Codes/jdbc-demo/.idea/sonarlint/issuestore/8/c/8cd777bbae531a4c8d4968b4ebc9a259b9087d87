@@ -1,10 +1,0 @@
-
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ƒ’«Áøÿÿÿÿ8œòËÿª0
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ñªàìøÿÿÿÿ8ÆµĞÿª0
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(“Ñøÿÿÿÿ8Ü©Ñÿª0
-M
-java:S1128"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ8´İÆÿª0
-P
-java:S1128"3Remove this unused import 'java.sql.DriverManager'.(“£°8µİÆÿª0
-O
-java:S1128"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ8µİÆÿª0
