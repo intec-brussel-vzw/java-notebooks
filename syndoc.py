@@ -184,7 +184,7 @@ def update_all():
     )
 
     if src_path == "":
-        src = sys.argv[1] if len(sys.argv) > 1 else os.getcwd()
+        src_path = sys.argv[1] if len(sys.argv) > 1 else os.getcwd()
 
     source_file_list = only4md(src_path, ".md")
 
